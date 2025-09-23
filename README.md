@@ -19,6 +19,8 @@ This project was built to practise OOP programming, file handling and lastly CRU
 git clone
 https://github.com/Nianca-Chetty103/Java-Insurance-Management-System.git
 cd insurance-management-system
+- [Watch demo](Java System.mp4)
 
 # Future Improvements 
 Want to make it more visually appealing to users.
+
