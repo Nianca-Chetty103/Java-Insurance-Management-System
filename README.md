@@ -14,7 +14,7 @@ This project was built to practise OOP programming, file handling and lastly CRU
 - slow claim approvals.
 - hard to track data.
 
-## Solutions ⭐
+## How does it help the community ⭐
 - Automates data systems.
 - reduces users errors / human error.
 - quick access to the data.
@@ -24,10 +24,11 @@ This project was built to practise OOP programming, file handling and lastly CRU
 - Javafx and Java using Intellij
 - MySQL Oracle database
 
-## Why I built this 💡
+## What I learnt 💡
 - To Strenghten my java programming skills.
 - Build something practical that mirrors the real-world insurance workflows
 - Test my knowledge of all the java skills I learnt thus far
+
 
 
 
